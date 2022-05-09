@@ -195,6 +195,16 @@
    |Получение данных из стакана     | 178 886|
    |Оформление сделки               | 55,51|  
       
+## 3. Логическая схема. 
+![Highload_3 (2)](https://user-images.githubusercontent.com/77728314/167402429-82fcc976-d67b-4186-9a11-b1954b81d265.jpg)
+## 4. Физическая схема.  
+  ![hihgload_physic](https://user-images.githubusercontent.com/77728314/167424213-763c4a04-1299-4c24-a45e-427ade0485cf.jpg)
+
+  4.1. Индексы. 
+  
+  4.2. Шардирование. 
+
+
 ## Источники информации. 
 1. https://bcs-express.ru/novosti-i-analitika/top-10-mirovykh-birzh
 2. https://www.moex.com/ru/members.aspx?tid=1179&sby=4
