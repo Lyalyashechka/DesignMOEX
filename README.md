@@ -204,11 +204,12 @@
    |Получение актуальной котировки по паре|27 303|
       
    RPS при пиковом трафике:  ```348 360 * 2 = 696 720 (2 - константа, с которой обновляются все данные биржи)```  
-## 3. Логическая схема. 
-![Highload_3 (2)](https://user-images.githubusercontent.com/77728314/167402429-82fcc976-d67b-4186-9a11-b1954b81d265.jpg)
+## 3. Логическая схема.  
+![Highload_3](https://user-images.githubusercontent.com/77728314/168273365-628eefa2-9d45-4c26-b3a1-d31ba522be46.jpg)
+
 ## 4. Физическая схема.  
-  ![hihgload_physic](https://user-images.githubusercontent.com/77728314/167424213-763c4a04-1299-4c24-a45e-427ade0485cf.jpg)  
-  
+  ![hihgload_physic](https://user-images.githubusercontent.com/77728314/168273391-f27e107e-e9b6-49c3-8df5-f1964a1834b7.jpg)
+
   ***4.1. Индексы.***  
   orders - индексы по user_id; (trade_pare_id, time)  
   trade_history - индекс (id_trade_pare, time)  
