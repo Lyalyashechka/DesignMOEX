@@ -262,7 +262,7 @@
 |history_api|64      |64         |SSD 512|4 + 4     |
 |simple_data_api|64| 64          |SSD 512|2 + 2| 
 |trade_history_worker|32|64          |SSD 512|1 +1 |
-|MemSQL          |32|64          |SSD 512|16*2 + 16*2|
+|MemSQL          |32|64          |SSD 512|16 * 2 + 16 * 2|
 |PostgreSQL      |32|64          |SSD 512|1 + 1|  
 
 ## Источники информации. 
